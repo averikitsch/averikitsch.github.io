@@ -109,3 +109,12 @@ i {
   font-size: 20px;
   margin: 0px 5px;
 }
+
+.links a {
+  color:#fff;
+}
+
+a:hover {
+  color:#6997f3;
+  text-decoration: none;
+}
