@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-category-jsx","path":"/categories/personal","result":{"data":{"posts":{"totalCount":1,"nodes":[{"uid":"welcome","data":{"title":{"text":"Welcome"},"date":"12.11.2019","categories":[{"category":{"document":[{"data":{"name":"Personal"}}]}}]}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"category":"Personal"}}}
